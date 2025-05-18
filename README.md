@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmogelangTebogoShongwe
+- 👋 Hi, I’m @AMOGELANG
 - 👀 I’m interested in Web Development[Front-End Development]
 - 🌱 I’m currently learning Html and Css , Javascript
   
